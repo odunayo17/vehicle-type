@@ -1,3 +1,26 @@
+"""
+Author: Odunayo Olufemi
+File name: vehicle_type.py
+
+Description:
+This Python app defines a superclass 'Vehicle' and a subclass 'Automobile'.
+The program prompts the user to input details about a car,
+then creates an Automobile object and displays the car's information.
+
+Variables:
+- vehicle_type: str - stores the type of vehicle
+- year: str - stores the manufacturing year of the car
+- make: str - stores the make of the car
+- model: str - stores the model of the car
+- doors: str - stores the number of doors of the car
+- roof: str - stores the type of roof of the car
+"""
+
+
+
+
+
+
 # Superclass Vehicle
 class Vehicle:
     def __init__(self, vehicle_type):
